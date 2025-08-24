@@ -132,6 +132,11 @@ html {
   margin-bottom: 1.5rem;
 }
 
+.btn-text {
+  color: white;
+  text-decoration: none;
+}
+
 .btn {
   padding: 0.8rem 1.8rem;
   background: linear-gradient(135deg, #a78bfa, #6d28d9);
